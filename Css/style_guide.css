@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+/* Primary Color */
+
+:root{
+  --orange: #FF6F08;
+}
+
+
+/* Neutral */
+
+:root {
+	--white: #FFFFFF;
+	--light-grey: #969EAA;
+	--medio-grey: #808791;
+	--dark-blue: hsl(213, 19%, 18%);
+	--very-dark-blue: #131416;
+}
+
+/* Font */
+
+:root {
+	--fonte-principal: 'Overpass';
+}
